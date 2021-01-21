@@ -1,0 +1,9 @@
+C:\Users\bayev\Desktop\dev\weatherAppBS\WeatherManagement.Models\bin\Debug\netstandard2.0\WeatherManagement.Models.deps.json
+C:\Users\bayev\Desktop\dev\weatherAppBS\WeatherManagement.Models\bin\Debug\netstandard2.0\WeatherManagement.Models.dll
+C:\Users\bayev\Desktop\dev\weatherAppBS\WeatherManagement.Models\bin\Debug\netstandard2.0\WeatherManagement.Models.pdb
+C:\Users\bayev\Desktop\dev\weatherAppBS\WeatherManagement.Models\obj\Debug\netstandard2.0\WeatherManagement.Models.csprojAssemblyReference.cache
+C:\Users\bayev\Desktop\dev\weatherAppBS\WeatherManagement.Models\obj\Debug\netstandard2.0\WeatherManagement.Models.AssemblyInfoInputs.cache
+C:\Users\bayev\Desktop\dev\weatherAppBS\WeatherManagement.Models\obj\Debug\netstandard2.0\WeatherManagement.Models.AssemblyInfo.cs
+C:\Users\bayev\Desktop\dev\weatherAppBS\WeatherManagement.Models\obj\Debug\netstandard2.0\WeatherManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\bayev\Desktop\dev\weatherAppBS\WeatherManagement.Models\obj\Debug\netstandard2.0\WeatherManagement.Models.dll
+C:\Users\bayev\Desktop\dev\weatherAppBS\WeatherManagement.Models\obj\Debug\netstandard2.0\WeatherManagement.Models.pdb
