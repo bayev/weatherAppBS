@@ -5813,19 +5813,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bayev\\.nuget\\packages\\": {}
+    "C:\\Users\\Azama\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\weatherAppBS\\weatherAppBS.csproj",
+      "projectUniqueName": "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\weatherAppBS\\weatherAppBS.csproj",
       "projectName": "weatherAppBS",
-      "projectPath": "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\weatherAppBS\\weatherAppBS.csproj",
-      "packagesPath": "C:\\Users\\bayev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\weatherAppBS\\obj\\",
+      "projectPath": "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\weatherAppBS\\weatherAppBS.csproj",
+      "packagesPath": "C:\\Users\\Azama\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\weatherAppBS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bayev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Azama\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5839,8 +5839,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj": {
-              "projectPath": "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj"
+            "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj": {
+              "projectPath": "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj"
             }
           }
         }

@@ -13,63 +13,63 @@ namespace weatherAppBS.Shared
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\bayev\Desktop\dev\weatherAppBS\weatherAppBS\_Imports.razor"
+#line 1 "C:\Users\Azama\Desktop\code\dotnet\plurarSight\DaysOfWeek\weatherAppBS\weatherAppBS\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\bayev\Desktop\dev\weatherAppBS\weatherAppBS\_Imports.razor"
+#line 2 "C:\Users\Azama\Desktop\code\dotnet\plurarSight\DaysOfWeek\weatherAppBS\weatherAppBS\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "C:\Users\bayev\Desktop\dev\weatherAppBS\weatherAppBS\_Imports.razor"
+#line 3 "C:\Users\Azama\Desktop\code\dotnet\plurarSight\DaysOfWeek\weatherAppBS\weatherAppBS\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Users\bayev\Desktop\dev\weatherAppBS\weatherAppBS\_Imports.razor"
+#line 4 "C:\Users\Azama\Desktop\code\dotnet\plurarSight\DaysOfWeek\weatherAppBS\weatherAppBS\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Users\bayev\Desktop\dev\weatherAppBS\weatherAppBS\_Imports.razor"
+#line 5 "C:\Users\Azama\Desktop\code\dotnet\plurarSight\DaysOfWeek\weatherAppBS\weatherAppBS\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\bayev\Desktop\dev\weatherAppBS\weatherAppBS\_Imports.razor"
+#line 6 "C:\Users\Azama\Desktop\code\dotnet\plurarSight\DaysOfWeek\weatherAppBS\weatherAppBS\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Users\bayev\Desktop\dev\weatherAppBS\weatherAppBS\_Imports.razor"
+#line 7 "C:\Users\Azama\Desktop\code\dotnet\plurarSight\DaysOfWeek\weatherAppBS\weatherAppBS\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Users\bayev\Desktop\dev\weatherAppBS\weatherAppBS\_Imports.razor"
+#line 8 "C:\Users\Azama\Desktop\code\dotnet\plurarSight\DaysOfWeek\weatherAppBS\weatherAppBS\_Imports.razor"
 using weatherAppBS;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Users\bayev\Desktop\dev\weatherAppBS\weatherAppBS\_Imports.razor"
+#line 9 "C:\Users\Azama\Desktop\code\dotnet\plurarSight\DaysOfWeek\weatherAppBS\weatherAppBS\_Imports.razor"
 using weatherAppBS.Shared;
 
 #line default

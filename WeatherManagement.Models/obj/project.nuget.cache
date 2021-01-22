@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QIfQiynvPe2xiawtB6HSvTklMxyOCR8CAJhNzf54vrjIsNUubyA+He0wLqSa2jKxmXxieQoYWaI+dZ0HjmlBhg==",
+  "dgSpecHash": "fzsLouxHPF3a+eVjU+65gReqQaS8ebWLnoGD9xsNhEvkYuaCz3zlFXzRXzRLCXG0mpFzsqYHz5dk/jc6DN6VtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj",
+  "projectFilePath": "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bayev\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\bayev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Azama\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Azama\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

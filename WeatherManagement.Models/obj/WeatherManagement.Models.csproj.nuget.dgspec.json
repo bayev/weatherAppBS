@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj": {}
+    "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj": {
+    "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj",
         "projectName": "WeatherManagement.Models",
-        "projectPath": "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj",
-        "packagesPath": "C:\\Users\\bayev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bayev\\Desktop\\dev\\weatherAppBS\\WeatherManagement.Models\\obj\\",
+        "projectPath": "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\WeatherManagement.Models\\WeatherManagement.Models.csproj",
+        "packagesPath": "C:\\Users\\Azama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Azama\\Desktop\\code\\dotnet\\plurarSight\\DaysOfWeek\\weatherAppBS\\WeatherManagement.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bayev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Azama\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
